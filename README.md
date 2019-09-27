@@ -4,4 +4,4 @@ Single-Page Application for gag mobile app "Tindog", fully responsive. Made with
 Live demo at abarnola.github.io/tindog
 
 
-* Not an actual application * 
+DISCLAIMER: not an actual application 
